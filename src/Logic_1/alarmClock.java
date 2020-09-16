@@ -33,7 +33,7 @@ public class alarmClock {
 		String result = (isVacation) ? (day==0 || day==6 ? "off" : "10:00"):
 			                           (day==0 || day==6 ? "10:00" : "7:00");
 		System.out.println(result);
-		
+		System.out.println(result);
 		}
 		
 	}
