@@ -43,6 +43,7 @@ public class alarmClock {
 		
 		
 		System.out.println("third commit from remote repository");
+		System.out.println("fourth commit from local master");
 	}
 		
 	}
