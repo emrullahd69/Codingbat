@@ -48,6 +48,8 @@ public class alarmClock {
 		System.out.println("fifth commit from remote master");
 		System.out.println("sixth commit from remote master");
 		System.out.println("fifth commit from local master");
+		
+		System.out.println("local master commit");
 	}
 		
 	}
