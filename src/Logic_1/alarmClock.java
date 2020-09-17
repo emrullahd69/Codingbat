@@ -35,6 +35,7 @@ public class alarmClock {
 		System.out.println(result);
 		System.out.println(result);
 		System.out.println(result);
+		System.out.println("first commit from remote repository");
 	}
 		
 	}
